@@ -19,7 +19,7 @@ I use existing libs :
 >> you can see the coverage testing in each usecase package by open the project with vscode, choose the testing file, right click then choose "Go:Toogle Test Coverage in Current Package"
 
 # summary of unit test 
-# Auth app
+- Auth app
 I have done the unit test and here are the results :
 >Running tool: /usr/local/go/bin/go test -timeout 30s -coverprofile=/var/folders/h_/tjhvlj3n32sc9lvvfbm8x9ym0000gn/T/vscode-gosNxhO2/go-code-cover efishery/auth/src/app/use_cases/user
 >>ok  	efishery/auth/src/app/use_cases/user	0.667s	coverage: 100.0% of statements
@@ -90,3 +90,5 @@ after clone and do some set up that explained before, do this following actions 
 >> in db "projek" make a new schema named "efishery" <br />
 >> do all command to make the table and insert, you can see the command in db/account.sql and db/customer.sql <br />
 >> project ready to use <br />
+
+# Fetch App
