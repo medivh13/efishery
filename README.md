@@ -75,7 +75,7 @@ after clone and do some set up that explained before, do this following actions 
 >> DB_NAME=projek/your_db_name <br />
 >> DB_USERNAME=your_db_user <br />
 >> DB_PASSWORD=your_db_password <br />
->> DB_SCHEMA=warung_pintar <br />
+>> DB_SCHEMA=efishery <br />
 >> DB_SSL_MODE=disable <br />
 
 - in this part :
